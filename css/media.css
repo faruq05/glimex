@@ -1,0 +1,548 @@
+@media(max-width: 1399px) {
+    .req {
+        width: 60%;
+        margin-bottom: 30px;
+    }
+
+
+    .req p {
+        font-size: 20px;
+        padding: 10px 20px;
+    }
+}
+
+@media(max-width:1199px) {
+    .chart img {
+        text-align: center;
+        width: 50%;
+    }
+
+
+    .chart_1 {
+        position: absolute;
+        top: -13%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 16px;
+        color: #000;
+        text-align: end;
+        font-weight: 500;
+    }
+
+    .chart_2 {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 10%;
+        font-size: 16px;
+        text-align: left;
+        color: #000;
+        font-weight: 500;
+    }
+
+    .chart_3 {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 10%;
+        font-size: 16px;
+        color: #000;
+        text-align: end;
+        font-weight: 500;
+    }
+
+    .chart_4 {
+        position: absolute;
+        bottom: -13%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 16px;
+        color: #000;
+        font-weight: 500;
+        text-align: left;
+    }
+
+    .brand_image img {
+        width: 50%;
+    }
+
+}
+
+@media(max-width: 991px) {
+    .bimg img {
+        height: auto;
+        overflow: hidden;
+    }
+
+    .navbar-brand {
+        width: 25%;
+    }
+
+    .comp_head h2 {
+        padding: 20px 0px 40px 0px;
+        font-size: 30px;
+    }
+
+    .google_review {
+        width: 100%;
+    }
+
+    .req {
+        width: 60%;
+        margin-bottom: 30px;
+    }
+
+
+    .req p {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+
+    .target_box {
+        padding: 20px 0px 20px 0px;
+    }
+
+    .choice_content ul li p {
+
+        font-size: 20px;
+
+    }
+
+    .blog_des h4 {
+        font-size: 20px;
+    }
+
+    .news form input {
+        width: 100%;
+    }
+
+    .btn-newssubmit {
+        left: 85%;
+    }
+
+    .brand_image img {
+        width: 55%;
+    }
+
+    .chart img {
+        text-align: center;
+        width: 50%;
+    }
+
+
+    .chart_1 {
+        position: absolute;
+        top: -13%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 14px;
+        color: #000;
+        text-align: end;
+        font-weight: 500;
+    }
+
+    .chart_2 {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 7%;
+        font-size: 14px;
+        text-align: left;
+        color: #000;
+        font-weight: 500;
+    }
+
+    .chart_3 {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 7%;
+        font-size: 14px;
+        color: #000;
+        text-align: end;
+        font-weight: 500;
+    }
+
+    .chart_4 {
+        position: absolute;
+        bottom: -13%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 14px;
+        color: #000;
+        font-weight: 500;
+        text-align: left;
+    }
+
+}
+
+@media(max-width:767px) {
+
+    .navbar-brand {
+        width: 25%;
+    }
+
+    .rate img {
+        width: 100%;
+    }
+
+    .comp_head h2 {
+        padding: 20px 0px 40px 0px;
+        font-size: 30px;
+    }
+
+    .req {
+        width: 90%;
+        margin-bottom: 30px;
+    }
+
+
+    .req p {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+
+    .comp_content {
+        padding: 30px 10px;
+    }
+
+    .target_image {
+        text-align: center;
+    }
+
+    .pillar h2 {
+        font-size: 20px;
+    }
+
+    .choice_content {
+        padding: 10px;
+
+    }
+
+    .choice_content ul li p {
+        font-size: 20px;
+        text-align: left !important;
+    }
+
+    .choice .choice_box p {
+        padding: 10px 0px;
+    }
+
+    .google_review {
+        width: 100%;
+
+    }
+
+    .bimg img {
+        height: auto;
+
+    }
+
+
+    .info {
+        margin-bottom: 35px;
+    }
+
+    .brand_image {
+
+        width: 50%;
+        margin: auto;
+    }
+
+    .brand {
+        padding: 0;
+    }
+
+    .newsletter {
+        text-align: center;
+    }
+
+    .news form input {
+        width: 100%;
+    }
+
+    .news h2 {
+        text-align: center;
+    }
+
+    .btn-newssubmit {
+        left: 90%;
+    }
+
+    .social ul {
+        justify-content: center;
+    }
+
+   
+    .brand_image img {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    .chart img {
+        text-align: center;
+        width: 55%;
+    }
+
+
+    .chart_1 {
+        position: absolute;
+        top: -18%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 12px;
+        color: #000;
+        text-align: end;
+        font-weight: 500;
+    }
+
+    .chart_2 {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 2%;
+        font-size: 12px;
+        text-align: left;
+        color: #000;
+        font-weight: 500;
+    }
+
+    .chart_3 {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 2%;
+        font-size: 12px;
+        color: #000;
+        text-align: end;
+        font-weight: 500;
+    }
+
+    .chart_4 {
+        position: absolute;
+        bottom: -18%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 12px;
+        color: #000;
+        font-weight: 500;
+        text-align: left;
+    }
+}
+
+@media(max-width:425px) {
+    .chart img {
+        text-align: center;
+        width: 55%;
+    }
+
+
+    .chart_1 {
+        position: absolute;
+        top: -20%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 11px;
+        color: #000;
+        text-align: end;
+        font-weight: 500;
+    }
+
+    .chart_2 {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 1%;
+        font-size: 11px;
+        text-align: left;
+        color: #000;
+        font-weight: 500;
+    }
+
+    .chart_3 {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 2%;
+        font-size: 11px;
+        color: #000;
+        text-align: end;
+        font-weight: 500;
+    }
+
+    .chart_4 {
+        position: absolute;
+        bottom: -20%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 11px;
+        color: #000;
+        font-weight: 500;
+        text-align: left;
+    }
+}
+
+@media(max-width:320px) {
+    .navbar-light .navbar-brand {
+        width: 60%;
+    }
+
+    .rate img {
+        width: 100%;
+    }
+
+    .comp_head {
+        background-color: #28326b;
+        padding: 0;
+    }
+
+    .comp_head h2 {
+        padding: 20px 0px 50px 0px;
+        font-size: 30px;
+    }
+
+    .req {
+        width: 90%;
+    }
+
+
+    .req p {
+        font-size: 16px;
+        padding: 10px 20px;
+    }
+
+    .pillar p {
+        font-size: 16px;
+        line-height: 30px;
+    }
+
+    .pillar h2 {
+        font-size: 20px;
+    }
+
+    .choice_content {
+        padding: 10px;
+
+    }
+
+    .choice_content ul li p {
+        font-size: 16px;
+        text-align: left !important;
+    }
+
+    .choice .choice_box p {
+        padding: 10px 0px;
+    }
+    
+    .choice .choice_box {
+        margin-bottom: 20px;
+    }
+
+    .opinion h2 {
+        font-size: 20px;
+    }
+
+    .review_content p {
+        font-size: 16px;
+    }
+
+    .blog p {
+        text-align: center;
+    }
+
+    .blog_des {
+        text-align: center;
+    }
+
+    .blog_des h4 {
+        font-size: 20px;
+    }
+
+    .blog_des p {
+        padding: 0;
+    }
+
+    .contact {
+        text-align: center;
+    }
+
+    .info {
+        margin-bottom: 35px;
+    }
+
+
+    .news form input {
+        width: 100%;
+    }
+
+    .news h2 {
+        text-align: center;
+    }
+
+    .btn-newssubmit {
+        left: 83%;
+    }
+
+    .social ul {
+        justify-content: center;
+    }
+
+    .brand {
+        padding: 0;
+    }
+
+    .target_image {
+        text-align: center;
+    }
+
+    .chart img {
+        text-align: center;
+        width: 60%;
+    }
+
+
+    .chart_1 {
+        position: absolute;
+        top: -20%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 8px;
+        color: #000;
+        text-align: end;
+        font-weight: 500;
+    }
+
+    .chart_2 {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        right: 1%;
+        font-size: 8px;
+        text-align: left;
+        color: #000;
+        font-weight: 500;
+    }
+
+    .chart_3 {
+        position: absolute;
+        top: 50%;
+        transform: translateY(-50%);
+        left: 2%;
+        font-size: 8px;
+        color: #000;
+        text-align: end;
+        font-weight: 500;
+    }
+
+    .chart_4 {
+        position: absolute;
+        bottom: -20%;
+        left: 50%;
+        transform: translateX(-50%);
+        font-size: 8px;
+        color: #000;
+        font-weight: 500;
+        text-align: left;
+    }
+
+}
